@@ -9,6 +9,11 @@ Please do:
 
 conda env create -f DGMORL.yml
 
+You can go to /Algorithm/DG_MORL.py to run the experiment of DST and Minecart.
+To run the MO Hopper experiment, just go to /Algorithm/DG_MORL_continuous.py 
+
+The initial demos are in /Algorithm/initial demos (Minecart and MO Hopper). The DST initial demonstrations are hard-coded in the script /Algorithm/DG_MORL.py 
+
 This implementation is adapted from the work of Alegre et al. "Sample-Efficient Multi-Objective Learning via Generalized Policy Improvement Prioritization"
 Lucas N. Alegre, Ana L. C. Bazzan, Diederik M. Roijers, Ann Nowé, Bruno C. da Silva
 AAMAS 2023
