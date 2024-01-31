@@ -1,2 +1,1 @@
-# DG-MORL
-DG-MORL algorithm
+# MOGE

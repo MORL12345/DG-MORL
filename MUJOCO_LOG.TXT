@@ -1,0 +1,12 @@
+Wed Nov  1 10:48:03 2023
+ERROR: Could not open activation key file C:\Users\19233436\.mujoco\mjkey.txt
+
+Wed Nov  1 10:49:35 2023
+ERROR: Could not open activation key file C:\Users\19233436\.mujoco\mjkey.txt
+
+Wed Nov  1 10:57:41 2023
+ERROR: Could not open activation key file C:\Users\19233436\.mujoco\mjkey.txt
+
+Wed Nov  1 11:00:36 2023
+ERROR: Could not open activation key file C:\Users\19233436\.mujoco\mjkey.txt
+
