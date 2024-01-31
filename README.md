@@ -6,4 +6,5 @@ Multi-objective reinforcement learning (MORL) is increasingly relevant due to it
 We upload the general version of the implementation. The user need to tailor it to the specific experiment they want to do. The dependencies are exported to DGMORL.yml
 To reconstruct the running environment on your machine:
 Please do:
-'conda env create -f DGMORL.yml'
+
+conda env create -f DGMORL.yml
