@@ -4,7 +4,6 @@
     Lucas N. Alegre, Ana L. C. Bazzan, Diederik M. Roijers, Ann Nowé, Bruno C. da Silva
     AAMAS 2023
     Paper: https://arxiv.org/abs/2301.07784
-    See Appendix for Continuous Action details.
     """
 import copy
 import os
@@ -80,7 +79,6 @@ class DG_MORL_continuous(MOAgent, MOPolicy):
     Lucas N. Alegre, Ana L. C. Bazzan, Diederik M. Roijers, Ann Nowé, Bruno C. da Silva
     AAMAS 2023
     Paper: https://arxiv.org/abs/2301.07784
-    See Appendix for Continuous Action details.
     """
 
     def __init__(
