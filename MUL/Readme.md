@@ -18,5 +18,5 @@ We show the result of MUL in MO Hopper in the following figures.
 ![figurea](https://github.com/MORL12345/DG-MORL/blob/main/MUL/MUL%20MO%20Hopper.png)
 
 
-From the result, our DG-MORL algorithm can reach the maximum achievable utility in DST and Minecart, and have the smallest gap to the maximum achievable utility in MO Hopper. 
+From the result, our DG-MORL algorithm can reach the maximum achievable utility in DST, and have the smallest gap to the maximum achievable utility in Minecart and MO Hopper when comparing with baselines. 
 [1] Alegre, L. N., Bazzan, A. L., Roijers, D. M., Nowé, A., & da Silva, B. C. (2023, May). Sample-Efficient Multi-Objective Learning via Generalized Policy Improvement Prioritization. In Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems (pp. 2003-2012).
