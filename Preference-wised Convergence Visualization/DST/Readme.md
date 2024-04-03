@@ -15,4 +15,4 @@ Most of the curves converge at the 12000th step. However, there exists some fluc
 # Utility convergence curve
 ![figurea](https://github.com/MORL12345/DG-MORL/blob/main/Preference-wised%20Convergence%20Visualization/DST/utility_convergence.png)
 
-Unfortunately, due to the limit time, we can only conduct the visualization once, we can do a repeat experiment with the random seeds we mentioned in the paper in the future and add them to the revised manuscript. 
+Unfortunately, due to the limited time, we can only conduct the visualization once, we can do a repeat experiment with the random seeds we mentioned in the paper in the future and add them to the revised manuscript. 
